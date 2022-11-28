@@ -15,10 +15,10 @@ incremental: false
 title: 'Body Rocket Data Analysis'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Horta Velodrome - 20th Sep 2022'
+slogan: 'Newport Velodrome - 29th Nov 2022'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Analysis of the data collected by the Body Rocket system at Horta Velodrome, Barecelona'
+description: 'Analysis of the data collected by the Body Rocket system at Newport Velodrome, Wales'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
@@ -30,7 +30,7 @@ author: jfitchew
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://jfitchew.github.io'
-baseurl: '/Horta_200922'
+baseurl: '/Newport_201122'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -42,7 +42,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://jfitchew.github.io/Horta_200922/images/'
+urlimg: 'https://jfitchew.github.io/Newport_291122/images/'
 
 
 # Logo size is 600x80 pixels

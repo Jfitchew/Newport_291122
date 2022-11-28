@@ -1,0 +1,40 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Data Validation"
+  url: "/Cleaned/"
+  side: left
+  dropdown:
+  - title: "Data Issues"
+    url: "/Cleaned/Issues/"
+  - title: "Data Outliers"
+    url: "/Cleaned/Outliers/"
+  - title: "Data Spikes"
+    url: "/Cleaned/Spikes/"
+  - title: "Cleaned Data Plots"
+    url: "/Cleaned/Cleaned/"
+
+- title: "Data Analysis"
+  url: "/Validated/"
+  side: left
+  dropdown:
+  - title: "Test Run 4"
+    url: "/Validated/R04/"
+
+- title: Videos
+  url: "/Videos/"
+  side: left
+
+- title: Changelog
+  url: "/changelog.html"
+  side: left
+
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

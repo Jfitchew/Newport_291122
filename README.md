@@ -1,7 +1,7 @@
 
 
 ### Data Validation  
-- [Data Validarion for Test Runs at Horta](Cleaned/)
+- [Data Validation for Test Runs](CleanedByBR/)
 
 ### Data Analysis  
-- [Data Analysis for Test Runs at Horta](Validated/)
+- [Data Analysis for Test Runs](Validated/)

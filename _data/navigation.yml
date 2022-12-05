@@ -3,17 +3,17 @@
   side: left
 
 - title: "Data Validation"
-  url: "/Cleaned/"
+  url: "/CleanedByBR/"
   side: left
   dropdown:
   - title: "Data Issues"
-    url: "/Cleaned/Issues/"
+    url: "/CleanedByBR/Issues/"
   - title: "Data Outliers"
-    url: "/Cleaned/Outliers/"
+    url: "/CleanedByBR/Outliers/"
   - title: "Data Spikes"
-    url: "/Cleaned/Spikes/"
+    url: "/CleanedByBR/Spikes/"
   - title: "Cleaned Data Plots"
-    url: "/Cleaned/Cleaned/"
+    url: "/CleanedByBR/Cleaned/"
 
 - title: "Data Analysis"
   url: "/Validated/"

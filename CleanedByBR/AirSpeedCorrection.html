@@ -1,0 +1,198 @@
+---
+    layout: page                   
+    subheadline: Data Validation
+    title: Air Speed Correction Factor
+    teaser: Shown below are the suggested correction factors for the Air Speed based on bike speeds
+    categories:
+      - 
+    tags:
+      - 
+    style:                 # Adding additional CSS-styles to <head>
+    breadcrumb: false      # before setting to true need to sort out how you want it to get the section names etc 
+    homepage: false        # Hack to make the navigation highlight this page as active in the topbar
+---
+    <html>
+        <head>
+            
+        </head>
+
+        <body>
+            <table border="1" class="dataframe mystyle">
+  <thead>
+    <tr style="text-align: center;">
+      <th></th>
+      <th>Test Run</th>
+      <th>Sector</th>
+      <th>Ground Speed</th>
+      <th>Speed from Crank</th>
+      <th>Air Speed</th>
+      <th>Correction (ground)</th>
+      <th>Correction (crank)</th>
+      <th>Avg Correction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>R03</td>
+      <td>End-Bend1 (1st half)</td>
+      <td>11.289517</td>
+      <td>11.222636</td>
+      <td>11.034297</td>
+      <td>1.023130</td>
+      <td>1.017069</td>
+      <td>1.014881</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>R03</td>
+      <td>End-Bend1 (2nd half)</td>
+      <td>11.053562</td>
+      <td>11.001427</td>
+      <td>10.903088</td>
+      <td>1.013801</td>
+      <td>1.009019</td>
+      <td>1.014881</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>R03</td>
+      <td>End-Bend2 (1st half)</td>
+      <td>11.323819</td>
+      <td>11.249463</td>
+      <td>11.073997</td>
+      <td>1.022559</td>
+      <td>1.015845</td>
+      <td>1.014881</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>R03</td>
+      <td>End-Bend2 (2nd half)</td>
+      <td>11.188386</td>
+      <td>11.139175</td>
+      <td>11.057158</td>
+      <td>1.011868</td>
+      <td>1.007418</td>
+      <td>1.014881</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>R03</td>
+      <td>End-Straight (back)</td>
+      <td>9.944419</td>
+      <td>9.853634</td>
+      <td>9.851054</td>
+      <td>1.009478</td>
+      <td>1.000262</td>
+      <td>1.014881</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>R03</td>
+      <td>End-Straight (home)</td>
+      <td>11.154123</td>
+      <td>11.110106</td>
+      <td>11.067612</td>
+      <td>1.007817</td>
+      <td>1.003839</td>
+      <td>1.014881</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>R03</td>
+      <td>Ignore</td>
+      <td>11.129514</td>
+      <td>11.071800</td>
+      <td>10.959519</td>
+      <td>1.015511</td>
+      <td>1.010245</td>
+      <td>1.014881</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>R08</td>
+      <td>End-Bend1 (1st half)</td>
+      <td>11.237568</td>
+      <td>11.157892</td>
+      <td>10.860911</td>
+      <td>1.034680</td>
+      <td>1.027344</td>
+      <td>1.010357</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>R08</td>
+      <td>End-Bend1 (2nd half)</td>
+      <td>10.982570</td>
+      <td>10.937985</td>
+      <td>10.771475</td>
+      <td>1.019598</td>
+      <td>1.015458</td>
+      <td>1.010357</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>R08</td>
+      <td>End-Bend2 (1st half)</td>
+      <td>10.852364</td>
+      <td>10.768520</td>
+      <td>10.683592</td>
+      <td>1.015797</td>
+      <td>1.007949</td>
+      <td>1.010357</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>R08</td>
+      <td>End-Bend2 (2nd half)</td>
+      <td>10.885383</td>
+      <td>10.854662</td>
+      <td>10.730518</td>
+      <td>1.014432</td>
+      <td>1.011569</td>
+      <td>1.010357</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>R08</td>
+      <td>End-Straight (back)</td>
+      <td>8.537569</td>
+      <td>8.447466</td>
+      <td>8.983350</td>
+      <td>0.950377</td>
+      <td>0.940347</td>
+      <td>1.010357</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>R08</td>
+      <td>End-Straight (home)</td>
+      <td>11.090000</td>
+      <td>11.014774</td>
+      <td>10.830741</td>
+      <td>1.023937</td>
+      <td>1.016992</td>
+      <td>1.010357</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>R08</td>
+      <td>Ignore</td>
+      <td>10.746711</td>
+      <td>10.683273</td>
+      <td>10.601725</td>
+      <td>1.013676</td>
+      <td>1.007692</td>
+      <td>1.010357</td>
+    </tr>
+  </tbody>
+</table>
+            
+            <!-- Inserts MD file converted to HTML -->
+            <zero-md src="AirSpeedCorrection_.md"></zero-md> 
+            <p></p>
+            <p><a href="javascript:history.back()">...Go Back</a></p>               
+        </body>
+    </html>
+    

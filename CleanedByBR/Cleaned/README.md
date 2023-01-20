@@ -1,4 +1,5 @@
 #### Data Cleaned  <img src="..\Power-Cleaned.png" alt="power cleaned" width="225" style="float:right;" />
+- [Summary of Impact of Cleaning Data ](..\DataCleaned.html) 
 - [AirSpeed-Cleaned](..\AirSpeed-Cleaned.html)
 - [Cadence-Cleaned](..\Cadence-Cleaned.html)
 - [CdA-Cleaned](..\CdA-Cleaned.html)

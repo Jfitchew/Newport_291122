@@ -5,6 +5,7 @@ Various plots and data tables to help Validate data for all Test Runs
 - [Speed from Crank Angle](SpeedFromCrankAngle.html)  
 
 #### Data Outliers  <img src="Power-Peaks.png" alt="power peaks" style="float:right;width:225px;height:250px;" />
+- [Summary of Data Outliers](DataPeaks.html) 
 - [AirSpeed-Peaks](AirSpeed-Peaks.html)
 - [Cadence-Peaks](Cadence-Peaks.html)
 - [CdA-Peaks](CdA-Peaks.html)
@@ -16,6 +17,7 @@ Various plots and data tables to help Validate data for all Test Runs
 
 
 #### Data Spikes  <img src="Power-Spikes.png" alt="power spikes" style="float:right;width:225px;height:250px;" />
+- [Summary of Data Spikes](DataSpikes.html) 
 - [AirSpeed-Spikes](AirSpeed-Spikes.html)
 - [Cadence-Spikes](Cadence-Spikes.html)
 - [CdA-Spikes](CdA-Spikes.html)
@@ -24,9 +26,10 @@ Various plots and data tables to help Validate data for all Test Runs
 - [GroundSpeed-Spikes](GroundSpeed-Spikes.html)
 - [Power-Spikes](Power-Spikes.html)
 - [TotalWeight-Spikes](TotalWeight-Spikes.html)
-- [Summary of Data Spikes](DataSpikes.html) 
+
 
 #### Data Cleaned  <img src="Power-Cleaned.png" alt="power cleaned" style="float:right;width:225px;height:250px;" />
+- [Summary of Impact of Cleaning Data ](DataCleaned.html) 
 - [AirSpeed-Cleaned](AirSpeed-Cleaned.html)
 - [Cadence-Cleaned](Cadence-Cleaned.html)
 - [CdA-Cleaned](CdA-Cleaned.html)

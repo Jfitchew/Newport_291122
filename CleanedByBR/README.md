@@ -3,9 +3,6 @@ Various plots and data tables to help Validate data for all Test Runs
 - [Missing Data Records](MissingDataRecs.html)  
 - [Speed Quantisation](SpeedFromDistance.html)  
 - [Speed from Crank Angle](SpeedFromCrankAngle.html)  
-- [Summary of Data Outliers](DataPeaks.html) 
-- [Summary of Data Spikes](DataSpikes.html) 
-- [Summary of Impact of Cleaning Data ](DataCleaned.html) 
 
 #### Data Outliers  <img src="Power-Peaks.png" alt="power peaks" style="float:right;width:225px;height:250px;" />
 - [Summary of Data Outliers](DataPeaks.html) 

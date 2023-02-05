@@ -7,6 +7,7 @@
 - [CrankAngleDelta-Spikes](..\CrankAngleDelta-Spikes.html)
 - [Drag-Spikes](..\Drag-Spikes.html)
 - [GroundSpeed-Spikes](..\GroundSpeed-Spikes.html)
+- [OdoRevTimeSpeed-Spikes](..\OdoRevTimeSpeed-Spikes.html)
 - [Power-Spikes](..\Power-Spikes.html)
 - [TotalWeight-Spikes](..\TotalWeight-Spikes.html)
 

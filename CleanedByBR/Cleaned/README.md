@@ -7,5 +7,8 @@
 - [Drag-Cleaned](..\Drag-Cleaned.html)
 - [GroundSpeed-Cleaned](..\GroundSpeed-Cleaned.html)
 - [OdoRevTimeSpeed-Cleaned](..\OdoRevTimeSpeed-Cleaned.html)
+- [Old_Ground_Speed-Cleaned](..\Old_Ground_Speed-Cleaned.html)
 - [Power-Cleaned](..\Power-Cleaned.html)
+- [RiderWeight)-Cleaned](..\RiderWeight%29-Cleaned.html)
 - [TotalWeight-Cleaned](..\TotalWeight-Cleaned.html)
+- [Total_P-Cleaned](..\Total_P-Cleaned.html)

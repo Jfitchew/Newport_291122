@@ -6,7 +6,9 @@
 - [CrankAngularVelocity-Peaks](..\CrankAngularVelocity-Peaks.html)
 - [Drag-Peaks](..\Drag-Peaks.html)
 - [GroundSpeed-Peaks](..\GroundSpeed-Peaks.html)
+- [Old_Ground_Speed-Peaks](..\Old_Ground_Speed-Peaks.html)
 - [Power-Peaks](..\Power-Peaks.html)
 - [TotalWeight-Peaks](..\TotalWeight-Peaks.html)
+- [Total_P-Peaks](..\Total_P-Peaks.html)
 
 

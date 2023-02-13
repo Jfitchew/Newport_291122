@@ -8,7 +8,10 @@
 - [Drag-Spikes](..\Drag-Spikes.html)
 - [GroundSpeed-Spikes](..\GroundSpeed-Spikes.html)
 - [OdoRevTimeSpeed-Spikes](..\OdoRevTimeSpeed-Spikes.html)
+- [Old_Ground_Speed-Spikes](..\Old_Ground_Speed-Spikes.html)
 - [Power-Spikes](..\Power-Spikes.html)
 - [TotalWeight-Spikes](..\TotalWeight-Spikes.html)
+- [Total_P-Spikes](..\Total_P-Spikes.html)
+- [Weight-Spikes](..\Weight-Spikes.html)
 
 

@@ -12,8 +12,10 @@ Various plots and data tables to help Validate data for all Test Runs
 - [CrankAngularVelocity-Peaks](CrankAngularVelocity-Peaks.html)
 - [Drag-Peaks](Drag-Peaks.html)
 - [GroundSpeed-Peaks](GroundSpeed-Peaks.html)
+- [Old_Ground_Speed-Peaks](Old_Ground_Speed-Peaks.html)
 - [Power-Peaks](Power-Peaks.html)
 - [TotalWeight-Peaks](TotalWeight-Peaks.html)
+- [Total_P-Peaks](Total_P-Peaks.html)
 
 
 #### Data Spikes  <img src="Power-Spikes.png" alt="power spikes" style="float:right;width:225px;height:250px;" />
@@ -26,8 +28,11 @@ Various plots and data tables to help Validate data for all Test Runs
 - [Drag-Spikes](Drag-Spikes.html)
 - [GroundSpeed-Spikes](GroundSpeed-Spikes.html)
 - [OdoRevTimeSpeed-Spikes](OdoRevTimeSpeed-Spikes.html)
+- [Old_Ground_Speed-Spikes](Old_Ground_Speed-Spikes.html)
 - [Power-Spikes](Power-Spikes.html)
 - [TotalWeight-Spikes](TotalWeight-Spikes.html)
+- [Total_P-Spikes](Total_P-Spikes.html)
+- [Weight-Spikes](Weight-Spikes.html)
 
 
 #### Data Cleaned  <img src="Power-Cleaned.png" alt="power cleaned" style="float:right;width:225px;height:250px;" />
@@ -39,6 +44,9 @@ Various plots and data tables to help Validate data for all Test Runs
 - [Drag-Cleaned](Drag-Cleaned.html)
 - [GroundSpeed-Cleaned](GroundSpeed-Cleaned.html)
 - [OdoRevTimeSpeed-Cleaned](OdoRevTimeSpeed-Cleaned.html)
+- [Old_Ground_Speed-Cleaned](Old_Ground_Speed-Cleaned.html)
 - [Power-Cleaned](Power-Cleaned.html)
+- [RiderWeight)-Cleaned](RiderWeight%29-Cleaned.html)
 - [TotalWeight-Cleaned](TotalWeight-Cleaned.html)
+- [Total_P-Cleaned](Total_P-Cleaned.html)
 

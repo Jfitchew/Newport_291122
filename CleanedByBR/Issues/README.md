@@ -1,6 +1,7 @@
 ### Data Issues  
 - [Missing Data Records](..\MissingDataRecs.html)  
-- [Speed Quantisation](..\SpeedFromDistance.html)  
+- [Speed Quantisation](..\SpeedFromOdoCount.html)  
+- [Speed derivation options](OdoRevTime_Speed.html)  
 - [Speed from Crank Angle](..\SpeedFromCrankAngle.html)  
 
 - [Summary of Data Outliers](..\DataPeaks.html) 

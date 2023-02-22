@@ -1,7 +1,8 @@
 Various plots and data tables to help Validate data for all Test Runs  
 ### Data Issues  
 - [Missing Data Records](MissingDataRecs.html)  
-- [Speed Quantisation](SpeedFromDistance.html)  
+- [Speed Quantisation](SpeedFromOdoCount.html)  
+- [Speed derivation options](OdoRevTime_Speed.html)  
 - [Speed from Crank Angle](SpeedFromCrankAngle.html)  
 
 #### Data Outliers  <img src="Power-Peaks.png" alt="power peaks" style="float:right;width:225px;height:250px;" />

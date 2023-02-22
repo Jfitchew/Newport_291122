@@ -12,7 +12,7 @@
     url: "/CleanedByBR/Outliers/"
   - title: "Data Spikes"
     url: "/CleanedByBR/Spikes/"
-  - title: "Cleaned Data Plots"
+  - title: "Data Cleaning"
     url: "/CleanedByBR/Cleaned/"
 
 - title: "Data Analysis"

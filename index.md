@@ -1,8 +1,8 @@
 ---
 layout: page
+title: "Newport 29/11/22"
 ---
-  
-## Newport 29/11/22 (Jordan)
+
 - [Data Validation](CleanedByBR/)
 - [Data Analysis](Validated/)
 
@@ -18,10 +18,10 @@ layout: page
   - [Jason](/Newport_160323_Jason/)
   - [George](/Newport_160323_George/) 
 - Newport 30/11/22
-  - [Rider 1](/Newport_301122_Rider_1/)
-  - [Rider 2](/Newport_301122_Rider_2/)
-  - [Matt](/Newport_301122_Matt/)
-  - [Rider 4](/Newport_301122_Rider_4/)
+  - [Rider 1](/Newport_301122_Rider1/)
+  - [Rider 2](/Newport_301122_Rider2/)
+  - [Rider 3](/Newport_301122_Rider3/)
+  - [Rider 4](/Newport_301122_Rider4/)
 - [Newport 29/11/22](/Newport_291122/) 
 - [Horta   20/09/22](/Horta_200922/) 
 - [Newport 01/07/22](/Newport_010722/)
